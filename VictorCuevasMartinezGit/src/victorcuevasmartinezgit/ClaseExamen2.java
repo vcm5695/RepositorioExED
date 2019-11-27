@@ -10,5 +10,5 @@ package victorcuevasmartinezgit;
  * @author DAW104
  */
 public class ClaseExamen2 {
-    private String nombre;
+    private String nombrea;
 }
